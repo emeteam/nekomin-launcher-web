@@ -1,0 +1,30 @@
+{
+    "version": "0.1.0",
+    "discord": {
+        "clientId": "994208666062438470",
+        "smallImageText": "NekominCraft(バニラ)",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "servers": [
+        {
+            "id": "Example_Server",
+            "name": "WesterosCraft Example Client",
+            "description": "Example WesterosCraft server. Connect for fun!",
+            "icon": "http://launcher.nekomin.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
+            "version": "0.0.1",
+            "address": "mc.westeroscraft.com:1337",
+            "minecraftVersion": "1.11.2",
+            "discord": {
+                "shortId": "Example",
+                "largeImageText": "WesterosCraft Example Server",
+                "largeImageKey": "server-example"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                "Module Objects Here"
+            ]
+        }
+    ]
+}
