@@ -8,13 +8,13 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "Example_Server",
-            "name": "WesterosCraft Example Client",
-            "description": "Example WesterosCraft server. Connect for fun!",
+            "id": "Nekomincaft",
+            "name": "ねこみんクラフト バニラ",
+            "description": "ねこみんサーバー用に設計されたモード",
             "icon": "http://launcher.nekomin.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
-            "minecraftVersion": "1.11.2",
+            "address": "mc.nekomin.jp",
+            "minecraftVersion": "1.19",
             "discord": {
                 "shortId": "Example",
                 "largeImageText": "WesterosCraft Example Server",
