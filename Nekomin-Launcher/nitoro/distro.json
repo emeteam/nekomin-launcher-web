@@ -5,15 +5,14 @@
         "smallImageText": "NekominCraft(バニラ)",
         "smallImageKey": "seal-circle"
     },
-    "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
             "id": "Nekomincaft",
             "name": "ねこみんクラフト バニラ",
             "description": "ねこみんサーバー用に設計されたモード",
-            "icon": "http://launcher.nekomin.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
+            "icon": "http://nekomin-launcher.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
             "version": "0.0.1",
-            "address": "mc.nekomin.jp",
+            "address": "mc.nekomin.jp:25565",
             "minecraftVersion": "1.19",
             "discord": {
                 "shortId": "Example",
