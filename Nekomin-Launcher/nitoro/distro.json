@@ -7,16 +7,18 @@
     },
     "servers": [
         {
-            "id": "Nekomincaft",
+            "id": "NekominServer_ba",
             "name": "ねこみんクラフト バニラ",
             "description": "ねこみんサーバー用に設計されたモード",
             "icon": "http://nekomin-launcher.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
             "version": "0.0.1",
-            "address": "mc.nekomin.jp:25565",
+            "address": "minecraft.nekomin.jp:25565",
             "minecraftVersion": "1.19",
             "mainServer": true,
-            "autoconnect": true,
-            "modules": []
+            "autoconnect": false,
+            "modules": [
+                
+            ]
         }
     ]
 }
