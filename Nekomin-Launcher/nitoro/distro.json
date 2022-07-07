@@ -17,7 +17,21 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [
-                
+                {
+                    "id": "com.example:artifact:1.0.0@jar.pack.xz",
+                    "name": "Artifact 1.0.0",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 2483711,
+                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
+                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.19-41.0.63/forge-1.19-41.0.63-universal.jar"
+                    },
+                    "subModules": [
+                        {
+                            
+                        }
+                    ]
+                }
             ]
         }
     ]
