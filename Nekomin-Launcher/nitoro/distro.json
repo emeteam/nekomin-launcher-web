@@ -10,7 +10,7 @@
             "id": "NekominServer_ba",
             "name": "ねこみんクラフト バニラ",
             "description": "ねこみんサーバー用に設計されたモード",
-            "icon": "http://filenekomin.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
+            "icon": "http://nekominlauncher.emetea.ml/Nekomin-Launcher/NekominCraft-va/file/image/main.png",
             "version": "1.0.0",
             "address": "minecraft.nekomin.jp:25565",
             "minecraftVersion": "1.19",
