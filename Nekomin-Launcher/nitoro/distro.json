@@ -48,7 +48,7 @@
             "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
             "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/1.Vanilla-1.12.2/pack.png",
             "version": "1.0.0",
-            "address": "",
+            "address": "minecraft.nekomin.jp:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
               "shortId": "Minecraft",
